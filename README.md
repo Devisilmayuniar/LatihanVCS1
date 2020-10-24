@@ -2,13 +2,13 @@
 
 
 #### Repository ini dibuat untuk memenuhi pertemuan ke 4- bahasa
- pemograman
+ *pemograman*
 
-NAMA : DEVI SILMA YUNIAR
+**NAMA : DEVI SILMA YUNIAR**
 
-NIM : 312010458
+**NIM : 312010458**
 
-KELAS : TI.20.A.1
+**KELAS : TI.20.A.1**
 
 ### langkah-langkah penggunaan git
 
@@ -77,7 +77,7 @@ KELAS : TI.20.A.1
 `git clone [URL] pada contohnya, saya akan memasukan git clone` <br>
 https://github.com/Devisilmayuniar/LatihanVCS1.git
 
-![git clone](tugasVCS/Clone.png) <br>
+![git clone](tugasVCS/Clone2.png) <br>
 
 * Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (master), kita harus masuk kedalam folder yang telah dicloning tadi yaitu LatihanVCS dengan mengetikkan syntax berikut :
 
@@ -107,7 +107,7 @@ https://github.com/Devisilmayuniar/LatihanVCS1.git
 
 `git push`
 
-![gitpush](tugasVCS/Push.png)
+![gitpush](tugasVCS/Push6.png)
 
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di commit dan push dari remote. <br>
 
