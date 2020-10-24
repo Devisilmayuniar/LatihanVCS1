@@ -16,7 +16,7 @@ KELAS : TI.20.A.1
 * download git terlebih dahulu, dengan link berikut ini : {clik here} (http;//git.com) <br>
 
 
-![gitscm]( tugasVCS/GitScm.png)
+![gitscm]( tugasVCS/git.png)
 
 * Setelah file terdownload, silahkan lakukan instalasi dengan referensi berikut ini : [Git Installation Guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) <br>
 
